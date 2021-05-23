@@ -1,5 +1,5 @@
 # Scala-Tweet-Sentiment-Analysis
-Use of Scala to analyze positive, negative, and neutral sentiments using a Logistic Regression. Regularization was implemented to reduce overfitting. The L1 and L2 regularization was split with an alpha of 0.9. The optimal lambdda value was determined using 10-K cross validation. All opterations were done through the use of a pipeline. Hosted on DataBricks.
+Use of Scala to analyze positive, negative, and neutral sentiments using a Logistic Regression. Regularization was implemented to reduce overfitting. The L1 and L2 regularization was split with an alpha of 0.9. The optimal lambda value was determined using 10-K cross validation. All opterations were done through the use of a pipeline. Hosted on DataBricks.
 
 ## Data
 The airport sentiment data used was from Kaggle.
