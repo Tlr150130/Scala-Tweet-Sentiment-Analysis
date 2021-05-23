@@ -12,4 +12,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 The application of sentiment analysis on tweet data is prevalent in algorithmic trading. However, whether sentiment analysis offers a significant competitive edge regarding asset trading is still up for debate. It would be advised to include other features to supplement the trading decision. 
 
 ## Improvements
-The order of the words may prove to have significance on the sentiment of the phrase/tweet. It would be beneficial to test different machine learning models such as a recurrent neural network or LSTM neural network. 
+The order of the words may have significance on the sentiment of the phrase/tweet. It would be beneficial to test different machine learning models such as a recurrent neural network or LSTM neural network. 
